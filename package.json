@@ -1,0 +1,9 @@
+{
+  "name": "wintersmith-sass-demo",
+  "version": "0.0.0",
+  "dependencies": {
+    "coffee-script": "1.2.x",
+    "wintersmith-sass": "~0.2.0",
+    "wintersmith": "~2.0.5"
+  }
+}
